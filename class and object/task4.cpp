@@ -12,7 +12,7 @@ class viru
         {
             cout<<"500";
         }
-        else if (Distance>=1000 && Distance<=2000)
+        else if(Distance>=1000 && Distance<=2000)
         {
             cout<<"1100";
         }
